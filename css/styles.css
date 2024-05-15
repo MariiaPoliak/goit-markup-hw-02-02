@@ -32,14 +32,12 @@ font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 color: #4d5ae5;
-
-
-
-
+text-transform: uppercase;
 
 }
 .text-logo{
-  color: #2e2f42;;
+  color: #2e2f42;
+  text-transform: uppercase;
 }
 .adress-list{
     font-style: normal;
@@ -86,7 +84,6 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
-padding-top: 0;
 cursor: pointer;
 }
 .button:hover,
@@ -152,7 +149,7 @@ color: #434455;
 /* Portfolio */
 
 .portfolio-title{
-    font-weight: 700;
+font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
 text-transform: capitalize;
@@ -181,19 +178,23 @@ color: #434455;
 }
 
 .footer-logo{
+font-family: "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 color: #4d5ae5;
+text-transform: uppercase;
 }
 
 .footer-text-logo{
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     color: #f4f4fd;
+    text-transform: uppercase;
 }
 .footer-text{
     font-family: "Roboto", sans-serif;
