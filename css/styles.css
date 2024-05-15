@@ -6,13 +6,6 @@ body{
 }
 ul{
     list-style-type: none ;
-    font-weight: 500;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-    font-weight: 400;
 }
 
 a{
@@ -74,7 +67,6 @@ text-align: center;
 
 .button{
 font-family: "Roboto", sans-serif;
-box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 background: #4d5ae5;
 font-weight: 500;
 font-size: 16px;
